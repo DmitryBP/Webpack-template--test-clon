@@ -31,4 +31,11 @@
 Пушим проект в новый репозиторий 
 
     git push -u origin main
-    
+
+### 6. Добавляем новый проект в appveyor
+
+[AppVeyor](https://ci.appveyor.com/projects)
+
+Добавляем бейдж в readme
+
+[![Build status](https://ci.appveyor.com/api/projects/status/u36hwut3jr2skqlv?svg=true)](https://ci.appveyor.com/project/DmitryBP/webpack-template-test-clon)
